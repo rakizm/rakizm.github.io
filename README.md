@@ -1,2 +1,3 @@
 # rakizm.github.io
-Rakizm Official Web
+Rakizm Resmi Web Sitesi
+Kısa Sürede Hazır Hale Gelecektir.
